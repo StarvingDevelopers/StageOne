@@ -1,3 +1,4 @@
-function Script1(){
-
+player = {
+	name : "",
+	coins : 0
 }
