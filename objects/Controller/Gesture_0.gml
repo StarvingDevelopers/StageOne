@@ -1,1 +1,1 @@
-global.currency++;
+global.currency = global.currency + global.multiplier;
